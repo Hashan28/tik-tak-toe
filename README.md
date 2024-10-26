@@ -1,4 +1,5 @@
 🎮 Tik-Tak Toe Game
+
 Welcome to the Tik-Tak Toe Game! This is a fun, interactive version of the classic game built with React. Whether playing against a friend or sharpening your strategy skills, this game has covered you. Let’s see who gets three in a row first! 🚀
 
 📜 About the Project
